@@ -9,7 +9,6 @@ BU repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
  Öcelikle projeyi clonelayın
     '''
   [repo](https://github.com/mertalit/kodluyoruzilkrepo) 
-    
     '''
 
  ## Usage 
@@ -22,4 +21,4 @@ BU repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
  ## license
 
- [MIT] (https://github.com/mertalit/kodluyoruzilkrepo/blob/main/LICENSE)
+ [MIT](https://github.com/mertalit/kodluyoruzilkrepo/blob/main/LICENSE)
