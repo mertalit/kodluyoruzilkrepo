@@ -8,7 +8,9 @@ BU repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
  Öcelikle projeyi clonelayın
     '''
+
   [repo](https://github.com/mertalit/kodluyoruzilkrepo) 
+    
     '''
 
  ## Usage 
