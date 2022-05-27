@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-BU repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
  
 
 
@@ -7,11 +7,9 @@ BU repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
  ## Installation
 
  Öcelikle projeyi clonelayın
-    '''
-
+ 
   [repo](https://github.com/mertalit/kodluyoruzilkrepo) 
     
-    '''
 
  ## Usage 
 
@@ -21,6 +19,6 @@ BU repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
- ## license
+ ## License
 
  [MIT](https://github.com/mertalit/kodluyoruzilkrepo/blob/main/LICENSE)
